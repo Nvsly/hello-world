@@ -1,2 +1,3 @@
 # hello-world
-hello-GitHub
+
+There are big ships and small ships, but the best ships are friendships!
